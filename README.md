@@ -7,7 +7,7 @@ Passage de la homelive en Vera
 
   ou
 
--Sous Altui dans l'onglet commande os
+- Sous Altui dans l'onglet commande os
 
 
 Puis
