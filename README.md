@@ -5,6 +5,11 @@ Passage de la homelive en Vera
 
 - Connection en root via le terminal
 
+  ou
+
+-Sous Altui dans l'onglet commande os
+
+
 Puis
 
 Version 1.7.1598:
